@@ -1,0 +1,27 @@
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\bin\Debug\WFA_PakBank-OOP.exe.config
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank-OOP.csprojResolveAssemblyReference.cache
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank_OOP.Properties.Resources.resources
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank-OOP.csproj.GenerateResource.Cache
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\bin\Debug\WFA_PakBank-OOP.exe
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\bin\Debug\WFA_PakBank-OOP.pdb
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank_OOP.frmAnaSayfa.resources
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank_OOP.frmHesapAcilisi.resources
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank-OOP.exe
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank-OOP.pdb
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank_OOP.frmHesapDokumu.resources
+C:\Users\student2\Desktop\smnylmz\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank_OOP.frmParaIslemleri.resources
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\bin\Debug\WFA_PakBank-OOP.exe.config
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank-OOP.exe
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank-OOP.pdb
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\bin\Debug\WFA_PakBank-OOP.exe
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\bin\Debug\WFA_PakBank-OOP.pdb
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank-OOP.csprojResolveAssemblyReference.cache
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank_OOP.frmAnaSayfa.resources
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank_OOP.frmHesapAcilisi.resources
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank_OOP.frmHesapDokumu.resources
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank_OOP.frmParaIslemleri.resources
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank_OOP.Properties.Resources.resources
+C:\Users\smnylmz\Desktop\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank-OOP.csproj.GenerateResource.Cache
+C:\Users\smnylmz\Documents\Z-Çalışmalarım\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\bin\Debug\WFA_PakBank-OOP.exe.config
+C:\Users\smnylmz\Documents\Z-Çalışmalarım\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank-OOP.exe
+C:\Users\smnylmz\Documents\Z-Çalışmalarım\c ve sql\WFA_PakBank-OOP\WFA_PakBank-OOP\obj\Debug\WFA_PakBank-OOP.pdb

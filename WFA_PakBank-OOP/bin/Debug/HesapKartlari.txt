@@ -1,0 +1,8 @@
+﻿1;ACC8099;12.4.2016;osman;yilmaz;12345678901;2500;Vadesiz Hesap
+2;ACC8085;12.4.2016;dursun;yazar;23423567831;550;Vadesiz Hesap
+3;ACC8765;12.4.2016;ali;uçar;12543345322;950;Vadesiz Hesap
+4;ACC4471;12.4.2016;Robert;DeNiro;2342342342;9999;Vadeli Hesap
+5;ACC1448;12.4.2016;asdas;asdasd;123455677;100;Vadesiz Hesap
+6;ACC5146;12.4.2016;veli;kosar;135566777;300;Vadesiz Hesap
+7;ACC8073;12.4.2016;asdasd;asdasd;12312313;120;Vadesiz Hesap
+8;ACC2745;12.4.2016;cafer;asdasd;3345677888;200;Vadeli Hesap
